@@ -1,0 +1,13 @@
+{
+  "name": "bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Build bar\""
+  },
+  "keywords": [],
+  "author": "Tom Sherman <the.tomsherman@gmail.com> (https://tom-sherman.com/)",
+  "license": "ISC",
+  "licesne": "MIT"
+}

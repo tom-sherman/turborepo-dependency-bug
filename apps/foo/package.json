@@ -1,0 +1,14 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Build foo\"",
+    "deploy": "echo \"Deploy foo\""
+  },
+  "keywords": [],
+  "author": "Tom Sherman <the.tomsherman@gmail.com> (https://tom-sherman.com/)",
+  "license": "ISC",
+  "licesne": "MIT"
+}
