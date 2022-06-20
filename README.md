@@ -5,7 +5,7 @@
 
 ## Expected
 
-`foo#deploy` and `foo#build` to run
+`foo#test` and `foo#build` to run
 
 ## Actual
 
